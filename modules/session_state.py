@@ -21,6 +21,7 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 
 
+
 def apply_amr_radar_theme() -> None:
     """Apply a high-contrast theme across all AMR RADAR pages."""
 
@@ -86,6 +87,7 @@ def apply_amr_radar_theme() -> None:
         """,
         unsafe_allow_html=True,
     )
+
 
 
 
