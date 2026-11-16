@@ -1,0 +1,8 @@
+Organism,Antibiotic,Tested_Count,Resistant_Count,Intermediate_Count,Susceptible_Count,Resistant_Pct,Year,Location,Laboratory,Source
+Escherichia coli,Ciprofloxacin,1840,1380,92,368,75.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo
+Escherichia coli,Meropenem,1825,310,55,1460,17.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo
+Klebsiella pneumoniae,Meropenem,1420,682,71,667,48.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo
+Klebsiella pneumoniae,Ceftriaxone,1395,1116,42,237,80.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo
+Acinetobacter baumannii,Meropenem,1120,896,34,190,80.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo
+Staphylococcus aureus,Cefoxitin,1510,755,0,755,50.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo
+Staphylococcus aureus,Vancomycin,1490,15,15,1460,1.0,2024,Multi-Centre Sentinel Network (Synthetic ICMR-Format Demo),Aggregated Network Summary,Synthetic Format-B Demo

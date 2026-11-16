@@ -1,0 +1,426 @@
+Sample_ID,Organism,Antibiotic,Result,Date,Location,Laboratory,Standard,Standard_Version
+SYN-1001,Pseudomonas aeruginosa,Meropenem,R,2025-11-25,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1002,Staphylococcus aureus,Vancomycin,S,2024-06-23,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1003,Acinetobacter baumannii,Ciprofloxacin,R,2024-02-08,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1004,Klebsiella pneumoniae,Ceftriaxone,S,2025-06-16,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1005,Staphylococcus aureus,Cefoxitin,R,2024-05-12,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1006,Enterococcus faecium,Vancomycin,S,2024-02-20,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1007,Pseudomonas aeruginosa,Colistin,S,2024-11-20,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1008,Pseudomonas aeruginosa,Meropenem,S,2024-04-02,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1009,Escherichia coli,Amikacin,S,2024-12-24,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1010,Escherichia coli,Ceftriaxone,R,2024-04-10,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1011,Pseudomonas aeruginosa,Colistin,S,2025-09-01,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1012,Klebsiella pneumoniae,Meropenem,R,2025-09-05,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1013,Enterococcus faecium,Vancomycin,I,2024-05-21,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1014,Staphylococcus aureus,Vancomycin,S,2025-05-12,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1015,Acinetobacter baumannii,Amikacin,R,2024-10-18,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1016,Enterococcus faecium,Ciprofloxacin,S,2025-01-20,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1017,Escherichia coli,Amikacin,S,2024-06-05,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1018,Staphylococcus aureus,Cefoxitin,R,2024-01-14,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1019,Pseudomonas aeruginosa,Ciprofloxacin,R,2024-01-23,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1020,Escherichia coli,Piperacillin-Tazobactam,R,2025-06-07,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1021,Staphylococcus aureus,Vancomycin,S,2024-01-09,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1022,Acinetobacter baumannii,Amikacin,R,2024-04-06,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1023,Staphylococcus aureus,Linezolid,S,2024-11-08,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1024,Escherichia coli,Piperacillin-Tazobactam,I,2025-04-12,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1025,Staphylococcus aureus,Cefoxitin,R,2024-01-24,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1026,Staphylococcus aureus,Vancomycin,S,2024-09-25,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1027,Pseudomonas aeruginosa,Meropenem,S,2024-09-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1028,Klebsiella pneumoniae,Ceftriaxone,S,2025-10-22,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1029,Enterococcus faecium,Linezolid,R,2024-06-27,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1030,Escherichia coli,Meropenem,S,2024-10-03,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1031,Acinetobacter baumannii,Meropenem,R,2025-03-14,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1032,Enterococcus faecium,Ciprofloxacin,S,2025-06-27,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1033,Pseudomonas aeruginosa,Amikacin,R,2024-11-02,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1034,Escherichia coli,Piperacillin-Tazobactam,S,2025-08-08,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1035,Acinetobacter baumannii,Amikacin,S,2024-04-02,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1036,Staphylococcus aureus,Linezolid,S,2025-03-11,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1037,Enterococcus faecium,Ciprofloxacin,S,2024-08-17,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1038,Escherichia coli,Amikacin,R,2024-02-03,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1039,Klebsiella pneumoniae,Meropenem,R,2024-08-07,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1040,Pseudomonas aeruginosa,Meropenem,R,2024-07-05,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1041,Acinetobacter baumannii,Meropenem,R,2025-08-10,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1042,Escherichia coli,Piperacillin-Tazobactam,S,2025-01-13,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1043,Pseudomonas aeruginosa,Amikacin,S,2025-06-23,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1044,Klebsiella pneumoniae,Ceftriaxone,R,2025-02-19,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1045,Enterococcus faecium,Ciprofloxacin,R,2024-05-19,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1046,Escherichia coli,Meropenem,S,2024-10-04,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1047,Acinetobacter baumannii,Amikacin,R,2024-07-28,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1048,Enterococcus faecium,Vancomycin,R,2024-01-04,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1049,Acinetobacter baumannii,Colistin,S,2025-08-28,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1050,Staphylococcus aureus,Vancomycin,S,2025-05-24,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1051,Klebsiella pneumoniae,Meropenem,R,2024-02-28,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1052,Enterococcus faecium,Ciprofloxacin,R,2025-11-03,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1053,Escherichia coli,Piperacillin-Tazobactam,S,2025-10-03,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1054,Staphylococcus aureus,Ciprofloxacin,S,2024-06-14,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1055,Acinetobacter baumannii,Ciprofloxacin,R,2025-11-06,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1056,Escherichia coli,Ciprofloxacin,S,2024-06-16,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1057,Klebsiella pneumoniae,Meropenem,R,2025-03-20,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1058,Pseudomonas aeruginosa,Piperacillin-Tazobactam,S,2025-04-28,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1059,Klebsiella pneumoniae,Ceftriaxone,S,2025-10-01,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1060,Enterococcus faecium,Ciprofloxacin,I,2025-03-04,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1061,Acinetobacter baumannii,Ciprofloxacin,I,2025-11-05,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1062,Pseudomonas aeruginosa,Amikacin,S,2024-04-15,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1063,Staphylococcus aureus,Cefoxitin,S,2025-06-08,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1064,Klebsiella pneumoniae,Ceftriaxone,R,2024-04-16,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1065,Escherichia coli,Piperacillin-Tazobactam,R,2025-07-23,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1066,Staphylococcus aureus,Cefoxitin,I,2024-03-18,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1067,Pseudomonas aeruginosa,Colistin,S,2025-02-09,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1068,Enterococcus faecium,Ciprofloxacin,S,2024-05-16,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1069,Acinetobacter baumannii,Colistin,S,2024-08-28,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1070,Escherichia coli,Ceftriaxone,R,2024-10-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1071,Klebsiella pneumoniae,Meropenem,R,2025-04-02,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1072,Staphylococcus aureus,Cefoxitin,R,2024-01-24,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1073,Pseudomonas aeruginosa,Meropenem,S,2025-12-13,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1074,Escherichia coli,Amikacin,R,2024-01-07,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1075,Escherichia coli,Ceftriaxone,R,2024-12-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1076,Pseudomonas aeruginosa,Meropenem,S,2024-07-06,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1077,Klebsiella pneumoniae,Amikacin,R,2025-01-15,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1078,Pseudomonas aeruginosa,Amikacin,R,2024-02-06,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1079,Klebsiella pneumoniae,Amikacin,R,2025-12-14,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1080,Pseudomonas aeruginosa,Ciprofloxacin,R,2024-05-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1081,Acinetobacter baumannii,Amikacin,S,2025-01-22,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1082,Escherichia coli,Ciprofloxacin,R,2025-01-21,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1083,Enterococcus faecium,Linezolid,S,2025-06-22,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1084,Acinetobacter baumannii,Ciprofloxacin,S,2024-06-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1085,Klebsiella pneumoniae,Ciprofloxacin,R,2025-06-28,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1086,Staphylococcus aureus,Vancomycin,S,2024-06-15,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1087,Enterococcus faecium,Vancomycin,S,2024-05-16,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1088,Klebsiella pneumoniae,Amikacin,R,2025-08-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1089,Escherichia coli,Meropenem,S,2025-07-17,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1090,Enterococcus faecium,Ciprofloxacin,R,2024-07-16,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1091,Enterococcus faecium,Vancomycin,R,2025-07-11,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1092,Escherichia coli,Ceftriaxone,R,2025-11-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1093,Escherichia coli,Ciprofloxacin,R,2024-11-06,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1094,Acinetobacter baumannii,Ciprofloxacin,R,2025-05-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1095,Klebsiella pneumoniae,Ciprofloxacin,R,2024-10-22,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1096,Acinetobacter baumannii,Colistin,S,2024-01-21,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1097,Pseudomonas aeruginosa,Ciprofloxacin,S,2024-08-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1098,Acinetobacter baumannii,Amikacin,R,2024-04-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1099,Enterococcus faecium,Ciprofloxacin,S,2025-07-06,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1100,Enterococcus faecium,Vancomycin,S,2024-11-16,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1101,Klebsiella pneumoniae,Ciprofloxacin,R,2025-11-26,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1102,Staphylococcus aureus,Linezolid,S,2024-04-03,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1103,Acinetobacter baumannii,Colistin,I,2025-08-07,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1104,Klebsiella pneumoniae,Amikacin,R,2024-12-19,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1105,Enterococcus faecium,Linezolid,S,2025-07-19,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1106,Escherichia coli,Piperacillin-Tazobactam,S,2024-03-02,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1107,Staphylococcus aureus,Ciprofloxacin,S,2025-04-07,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1108,Staphylococcus aureus,Cefoxitin,S,2024-07-19,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1109,Enterococcus faecium,Vancomycin,S,2025-05-27,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1110,Escherichia coli,Piperacillin-Tazobactam,R,2025-10-04,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1111,Acinetobacter baumannii,Ciprofloxacin,R,2024-04-11,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1112,Enterococcus faecium,Ciprofloxacin,R,2024-02-01,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1113,Pseudomonas aeruginosa,Piperacillin-Tazobactam,I,2024-10-07,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1114,Staphylococcus aureus,Cefoxitin,S,2024-07-21,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1115,Enterococcus faecium,Ciprofloxacin,R,2025-12-12,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1116,Enterococcus faecium,Vancomycin,I,2024-02-23,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1117,Pseudomonas aeruginosa,Ciprofloxacin,R,2024-01-25,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1118,Pseudomonas aeruginosa,Piperacillin-Tazobactam,R,2025-04-21,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1119,Enterococcus faecium,Vancomycin,S,2025-04-13,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1120,Escherichia coli,Meropenem,S,2025-10-04,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1121,Pseudomonas aeruginosa,Ciprofloxacin,R,2024-02-25,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1122,Klebsiella pneumoniae,Ciprofloxacin,R,2024-04-19,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1123,Pseudomonas aeruginosa,Meropenem,S,2025-09-16,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1124,Staphylococcus aureus,Ciprofloxacin,S,2025-07-03,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1125,Pseudomonas aeruginosa,Amikacin,S,2024-11-24,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1126,Escherichia coli,Amikacin,S,2025-01-19,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1127,Escherichia coli,Piperacillin-Tazobactam,S,2025-10-09,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1128,Escherichia coli,Amikacin,S,2025-12-03,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1129,Enterococcus faecium,Vancomycin,S,2025-11-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1130,Enterococcus faecium,Linezolid,S,2025-11-05,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1131,Staphylococcus aureus,Vancomycin,S,2024-04-15,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1132,Pseudomonas aeruginosa,Meropenem,I,2025-03-09,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1133,Acinetobacter baumannii,Colistin,R,2025-05-27,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1134,Pseudomonas aeruginosa,Ciprofloxacin,I,2024-07-03,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1135,Pseudomonas aeruginosa,Amikacin,R,2025-01-13,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1136,Pseudomonas aeruginosa,Amikacin,I,2025-02-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1137,Enterococcus faecium,Linezolid,S,2024-07-27,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1138,Pseudomonas aeruginosa,Ciprofloxacin,S,2025-02-08,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1139,Acinetobacter baumannii,Ciprofloxacin,S,2024-11-13,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1140,Enterococcus faecium,Ciprofloxacin,R,2025-10-01,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1141,Enterococcus faecium,Linezolid,S,2025-01-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1142,Escherichia coli,Ceftriaxone,S,2025-08-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1143,Staphylococcus aureus,Vancomycin,S,2024-10-22,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1144,Acinetobacter baumannii,Meropenem,R,2024-08-21,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1145,Enterococcus faecium,Vancomycin,S,2025-09-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1146,Enterococcus faecium,Ciprofloxacin,S,2024-01-08,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1147,Staphylococcus aureus,Linezolid,S,2024-02-11,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1148,Enterococcus faecium,Ciprofloxacin,R,2025-09-25,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1149,Enterococcus faecium,Vancomycin,S,2025-01-10,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1150,Klebsiella pneumoniae,Ciprofloxacin,R,2025-02-13,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1151,Klebsiella pneumoniae,Meropenem,R,2025-10-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1152,Acinetobacter baumannii,Amikacin,S,2024-12-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1153,Escherichia coli,Ciprofloxacin,R,2025-03-07,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1154,Enterococcus faecium,Vancomycin,S,2024-08-19,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1155,Klebsiella pneumoniae,Ciprofloxacin,S,2024-08-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1156,Acinetobacter baumannii,Ciprofloxacin,R,2024-11-08,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1157,Acinetobacter baumannii,Colistin,S,2024-11-09,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1158,Acinetobacter baumannii,Meropenem,R,2025-08-16,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1159,Staphylococcus aureus,Vancomycin,S,2025-07-07,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1160,Staphylococcus aureus,Cefoxitin,R,2024-09-09,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1161,Pseudomonas aeruginosa,Amikacin,S,2025-06-08,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1162,Klebsiella pneumoniae,Colistin,S,2024-02-28,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1163,Escherichia coli,Piperacillin-Tazobactam,R,2025-12-06,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1164,Klebsiella pneumoniae,Colistin,S,2024-10-21,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1165,Escherichia coli,Ceftriaxone,S,2025-11-19,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1166,Acinetobacter baumannii,Colistin,S,2024-04-21,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1167,Escherichia coli,Amikacin,S,2024-01-23,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1168,Enterococcus faecium,Vancomycin,S,2025-04-19,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1169,Pseudomonas aeruginosa,Piperacillin-Tazobactam,R,2025-03-07,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1170,Enterococcus faecium,Vancomycin,S,2025-03-12,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1171,Pseudomonas aeruginosa,Ciprofloxacin,S,2024-03-24,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1172,Pseudomonas aeruginosa,Colistin,S,2024-01-20,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1173,Pseudomonas aeruginosa,Meropenem,S,2025-06-25,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1174,Klebsiella pneumoniae,Meropenem,R,2024-06-14,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1175,Enterococcus faecium,Vancomycin,S,2025-12-17,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1176,Enterococcus faecium,Vancomycin,R,2025-05-07,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1177,Escherichia coli,Amikacin,S,2024-03-23,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1178,Escherichia coli,Meropenem,S,2025-10-12,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1179,Staphylococcus aureus,Cefoxitin,R,2025-03-06,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1180,Staphylococcus aureus,Linezolid,S,2024-03-11,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1181,Pseudomonas aeruginosa,Piperacillin-Tazobactam,I,2025-06-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1182,Enterococcus faecium,Ciprofloxacin,R,2024-10-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1183,Acinetobacter baumannii,Ciprofloxacin,R,2025-09-01,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1184,Pseudomonas aeruginosa,Colistin,S,2024-07-06,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1185,Staphylococcus aureus,Vancomycin,S,2025-05-15,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1186,Klebsiella pneumoniae,Meropenem,R,2025-09-20,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1187,Escherichia coli,Ciprofloxacin,R,2025-12-23,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1188,Acinetobacter baumannii,Meropenem,S,2025-09-13,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1189,Staphylococcus aureus,Ciprofloxacin,S,2024-06-24,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1190,Pseudomonas aeruginosa,Meropenem,R,2024-12-16,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1191,Acinetobacter baumannii,Colistin,S,2025-08-28,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1192,Acinetobacter baumannii,Amikacin,R,2025-03-02,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1193,Acinetobacter baumannii,Colistin,S,2024-12-19,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1194,Pseudomonas aeruginosa,Meropenem,S,2025-04-16,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1195,Pseudomonas aeruginosa,Ciprofloxacin,R,2025-12-15,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1196,Enterococcus faecium,Ciprofloxacin,R,2025-01-05,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1197,Escherichia coli,Ceftriaxone,S,2024-01-24,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1198,Escherichia coli,Ciprofloxacin,I,2024-06-09,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1199,Escherichia coli,Amikacin,R,2025-10-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1200,Pseudomonas aeruginosa,Piperacillin-Tazobactam,R,2024-10-20,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1201,Staphylococcus aureus,Ciprofloxacin,R,2024-07-25,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1202,Pseudomonas aeruginosa,Amikacin,S,2024-01-18,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1203,Pseudomonas aeruginosa,Amikacin,S,2025-04-23,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1204,Pseudomonas aeruginosa,Amikacin,R,2024-05-16,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1205,Enterococcus faecium,Ciprofloxacin,R,2025-01-05,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1206,Klebsiella pneumoniae,Ciprofloxacin,R,2024-12-14,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1207,Klebsiella pneumoniae,Meropenem,S,2025-09-05,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1208,Acinetobacter baumannii,Ciprofloxacin,R,2025-06-15,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1209,Pseudomonas aeruginosa,Meropenem,S,2025-06-11,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1210,Klebsiella pneumoniae,Ciprofloxacin,R,2025-07-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1211,Klebsiella pneumoniae,Colistin,S,2024-03-06,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1212,Acinetobacter baumannii,Colistin,S,2025-05-13,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1213,Pseudomonas aeruginosa,Colistin,S,2025-10-27,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1214,Staphylococcus aureus,Linezolid,S,2024-08-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1215,Klebsiella pneumoniae,Meropenem,S,2024-09-06,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1216,Escherichia coli,Ciprofloxacin,R,2025-02-21,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1217,Pseudomonas aeruginosa,Amikacin,S,2025-04-08,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1218,Staphylococcus aureus,Ciprofloxacin,S,2024-06-17,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1219,Staphylococcus aureus,Linezolid,S,2024-05-21,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1220,Escherichia coli,Meropenem,I,2025-11-14,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1221,Staphylococcus aureus,Linezolid,S,2025-10-16,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1222,Escherichia coli,Ceftriaxone,S,2025-08-27,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1223,Enterococcus faecium,Linezolid,S,2024-07-04,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1224,Klebsiella pneumoniae,Amikacin,R,2024-03-08,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1225,Enterococcus faecium,Vancomycin,S,2025-08-05,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1226,Klebsiella pneumoniae,Ciprofloxacin,I,2024-03-13,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1227,Escherichia coli,Piperacillin-Tazobactam,S,2024-09-09,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1228,Klebsiella pneumoniae,Meropenem,R,2024-08-04,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1229,Klebsiella pneumoniae,Meropenem,R,2025-10-10,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1230,Acinetobacter baumannii,Amikacin,R,2025-09-26,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1231,Pseudomonas aeruginosa,Ciprofloxacin,S,2024-09-22,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1232,Enterococcus faecium,Vancomycin,I,2025-02-08,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1233,Acinetobacter baumannii,Colistin,S,2025-06-01,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1234,Klebsiella pneumoniae,Ceftriaxone,R,2024-09-21,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1235,Escherichia coli,Meropenem,S,2024-05-11,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1236,Escherichia coli,Ceftriaxone,S,2025-05-06,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1237,Escherichia coli,Ciprofloxacin,R,2025-10-06,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1238,Staphylococcus aureus,Vancomycin,S,2024-03-05,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1239,Escherichia coli,Ceftriaxone,R,2024-05-06,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1240,Enterococcus faecium,Ciprofloxacin,R,2024-04-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1241,Escherichia coli,Amikacin,S,2025-03-03,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1242,Escherichia coli,Amikacin,R,2024-12-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1243,Klebsiella pneumoniae,Ciprofloxacin,I,2025-07-03,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1244,Acinetobacter baumannii,Amikacin,I,2024-11-27,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1245,Pseudomonas aeruginosa,Amikacin,S,2024-01-06,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1246,Escherichia coli,Ceftriaxone,R,2024-08-24,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1247,Pseudomonas aeruginosa,Piperacillin-Tazobactam,S,2025-10-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1248,Acinetobacter baumannii,Amikacin,R,2025-10-13,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1249,Escherichia coli,Ciprofloxacin,S,2024-03-10,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1250,Escherichia coli,Amikacin,S,2024-08-08,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1251,Staphylococcus aureus,Vancomycin,S,2025-06-16,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1252,Acinetobacter baumannii,Ciprofloxacin,R,2025-09-22,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1253,Acinetobacter baumannii,Amikacin,R,2024-02-04,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1254,Enterococcus faecium,Ciprofloxacin,I,2024-07-14,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1255,Klebsiella pneumoniae,Amikacin,S,2024-07-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1256,Enterococcus faecium,Ciprofloxacin,R,2025-09-01,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1257,Pseudomonas aeruginosa,Ciprofloxacin,S,2024-02-17,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1258,Pseudomonas aeruginosa,Ciprofloxacin,I,2024-06-28,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1259,Klebsiella pneumoniae,Meropenem,R,2024-01-17,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1260,Acinetobacter baumannii,Meropenem,R,2025-06-06,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1261,Acinetobacter baumannii,Meropenem,S,2025-12-02,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1262,Klebsiella pneumoniae,Amikacin,R,2024-05-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1263,Acinetobacter baumannii,Meropenem,R,2024-08-22,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1264,Escherichia coli,Meropenem,S,2024-01-12,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1265,Acinetobacter baumannii,Amikacin,R,2024-03-02,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1266,Acinetobacter baumannii,Meropenem,R,2024-12-26,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1267,Enterococcus faecium,Vancomycin,I,2024-08-09,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1268,Acinetobacter baumannii,Ciprofloxacin,R,2025-10-18,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1269,Escherichia coli,Ceftriaxone,I,2024-12-23,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1270,Escherichia coli,Ceftriaxone,S,2025-11-28,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1271,Pseudomonas aeruginosa,Colistin,S,2024-09-26,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1272,Staphylococcus aureus,Vancomycin,S,2024-10-18,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1273,Staphylococcus aureus,Ciprofloxacin,R,2024-05-11,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1274,Acinetobacter baumannii,Ciprofloxacin,R,2024-10-07,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1275,Enterococcus faecium,Ciprofloxacin,R,2024-10-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1276,Acinetobacter baumannii,Amikacin,R,2024-05-23,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1277,Staphylococcus aureus,Ciprofloxacin,R,2024-12-18,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1278,Klebsiella pneumoniae,Amikacin,R,2024-11-17,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1279,Enterococcus faecium,Vancomycin,R,2024-05-08,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1280,Klebsiella pneumoniae,Colistin,S,2024-11-14,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1281,Pseudomonas aeruginosa,Amikacin,S,2024-06-04,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1282,Klebsiella pneumoniae,Amikacin,S,2025-12-11,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1283,Acinetobacter baumannii,Colistin,S,2025-12-18,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1284,Pseudomonas aeruginosa,Colistin,S,2025-01-04,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1285,Acinetobacter baumannii,Amikacin,S,2024-07-07,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1286,Enterococcus faecium,Ciprofloxacin,R,2024-01-05,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1287,Enterococcus faecium,Ciprofloxacin,R,2025-02-25,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1288,Pseudomonas aeruginosa,Ciprofloxacin,R,2025-11-16,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1289,Staphylococcus aureus,Ciprofloxacin,I,2025-09-09,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1290,Klebsiella pneumoniae,Ceftriaxone,R,2024-11-17,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1291,Enterococcus faecium,Vancomycin,S,2024-10-11,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1292,Staphylococcus aureus,Vancomycin,S,2025-06-17,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1293,Staphylococcus aureus,Linezolid,S,2024-10-07,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1294,Pseudomonas aeruginosa,Piperacillin-Tazobactam,S,2024-03-28,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1295,Acinetobacter baumannii,Amikacin,S,2024-12-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1296,Escherichia coli,Piperacillin-Tazobactam,R,2025-01-06,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1297,Klebsiella pneumoniae,Amikacin,S,2024-03-28,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1298,Klebsiella pneumoniae,Meropenem,R,2025-01-20,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1299,Escherichia coli,Ceftriaxone,R,2024-04-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1300,Klebsiella pneumoniae,Ciprofloxacin,S,2025-02-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1301,Enterococcus faecium,Vancomycin,R,2025-01-12,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1302,Staphylococcus aureus,Ciprofloxacin,R,2024-02-16,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1303,Klebsiella pneumoniae,Ceftriaxone,R,2025-11-07,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1304,Klebsiella pneumoniae,Ciprofloxacin,R,2024-03-19,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1305,Acinetobacter baumannii,Amikacin,R,2025-02-02,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1306,Pseudomonas aeruginosa,Ciprofloxacin,S,2025-07-10,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1307,Klebsiella pneumoniae,Ceftriaxone,R,2025-12-17,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1308,Escherichia coli,Piperacillin-Tazobactam,S,2025-07-11,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1309,Escherichia coli,Meropenem,S,2025-08-12,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1310,Enterococcus faecium,Vancomycin,S,2024-02-01,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1311,Pseudomonas aeruginosa,Ciprofloxacin,R,2025-08-05,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1312,Escherichia coli,Ciprofloxacin,S,2024-04-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1313,Enterococcus faecium,Linezolid,S,2024-03-04,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1314,Acinetobacter baumannii,Meropenem,R,2024-01-11,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1315,Pseudomonas aeruginosa,Meropenem,S,2025-11-07,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1316,Pseudomonas aeruginosa,Colistin,S,2024-04-14,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1317,Staphylococcus aureus,Linezolid,S,2024-04-03,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1318,Staphylococcus aureus,Vancomycin,S,2024-07-23,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1319,Escherichia coli,Amikacin,S,2024-11-23,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1320,Acinetobacter baumannii,Colistin,S,2024-03-04,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1321,Escherichia coli,Amikacin,S,2024-03-28,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1322,Acinetobacter baumannii,Ciprofloxacin,R,2025-02-01,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1323,Pseudomonas aeruginosa,Colistin,R,2024-03-20,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1324,Enterococcus faecium,Ciprofloxacin,R,2025-10-02,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1325,Enterococcus faecium,Vancomycin,S,2025-09-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1326,Pseudomonas aeruginosa,Colistin,S,2025-10-10,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1327,Pseudomonas aeruginosa,Meropenem,R,2025-07-23,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1328,Klebsiella pneumoniae,Colistin,S,2024-07-05,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1329,Acinetobacter baumannii,Ciprofloxacin,R,2025-12-12,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1330,Escherichia coli,Amikacin,S,2025-01-27,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1331,Acinetobacter baumannii,Amikacin,R,2025-07-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1332,Staphylococcus aureus,Linezolid,S,2025-05-14,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1333,Pseudomonas aeruginosa,Ciprofloxacin,R,2024-10-19,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1334,Staphylococcus aureus,Vancomycin,S,2025-11-25,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1335,Pseudomonas aeruginosa,Meropenem,R,2025-01-02,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1336,Escherichia coli,Meropenem,S,2024-07-22,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1337,Acinetobacter baumannii,Colistin,R,2025-04-11,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1338,Klebsiella pneumoniae,Colistin,S,2024-02-21,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1339,Pseudomonas aeruginosa,Piperacillin-Tazobactam,S,2025-06-03,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1340,Escherichia coli,Amikacin,R,2025-05-24,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1341,Pseudomonas aeruginosa,Piperacillin-Tazobactam,I,2025-10-22,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1342,Enterococcus faecium,Ciprofloxacin,R,2024-02-26,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1343,Acinetobacter baumannii,Ciprofloxacin,R,2024-04-12,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1344,Enterococcus faecium,Vancomycin,S,2024-11-13,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1345,Escherichia coli,Amikacin,S,2024-05-24,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1346,Pseudomonas aeruginosa,Amikacin,R,2024-08-10,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1347,Klebsiella pneumoniae,Ceftriaxone,S,2024-08-03,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1348,Klebsiella pneumoniae,Meropenem,R,2024-11-05,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1349,Klebsiella pneumoniae,Amikacin,S,2025-02-05,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1350,Enterococcus faecium,Ciprofloxacin,R,2024-03-14,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1351,Klebsiella pneumoniae,Colistin,S,2025-09-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1352,Klebsiella pneumoniae,Ciprofloxacin,I,2024-01-20,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1353,Acinetobacter baumannii,Ciprofloxacin,R,2025-08-21,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1354,Pseudomonas aeruginosa,Colistin,S,2025-05-02,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1355,Enterococcus faecium,Linezolid,S,2025-11-25,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1356,Enterococcus faecium,Ciprofloxacin,R,2025-08-27,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1357,Pseudomonas aeruginosa,Piperacillin-Tazobactam,I,2025-08-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1358,Staphylococcus aureus,Vancomycin,S,2025-02-23,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1359,Staphylococcus aureus,Ciprofloxacin,S,2024-04-09,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1360,Staphylococcus aureus,Cefoxitin,R,2024-02-28,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1361,Pseudomonas aeruginosa,Amikacin,R,2025-01-07,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1362,Staphylococcus aureus,Vancomycin,S,2025-05-08,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1363,Staphylococcus aureus,Vancomycin,S,2024-01-04,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1364,Klebsiella pneumoniae,Ceftriaxone,R,2025-03-02,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1365,Acinetobacter baumannii,Ciprofloxacin,R,2024-09-28,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1366,Pseudomonas aeruginosa,Amikacin,S,2025-01-08,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1367,Klebsiella pneumoniae,Colistin,S,2024-04-08,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1368,Escherichia coli,Ceftriaxone,S,2024-04-17,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1369,Staphylococcus aureus,Ciprofloxacin,R,2024-02-19,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1370,Pseudomonas aeruginosa,Meropenem,S,2025-11-14,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1371,Enterococcus faecium,Ciprofloxacin,R,2025-02-20,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1372,Staphylococcus aureus,Vancomycin,S,2025-10-07,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1373,Acinetobacter baumannii,Colistin,I,2024-09-10,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1374,Escherichia coli,Ceftriaxone,S,2025-10-11,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1375,Pseudomonas aeruginosa,Meropenem,R,2025-10-23,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1376,Escherichia coli,Meropenem,S,2025-08-05,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1377,Escherichia coli,Amikacin,R,2024-03-22,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1378,Escherichia coli,Piperacillin-Tazobactam,I,2025-07-04,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1379,Staphylococcus aureus,Vancomycin,S,2025-06-01,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1380,Acinetobacter baumannii,Ciprofloxacin,R,2025-07-01,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1381,Escherichia coli,Piperacillin-Tazobactam,S,2025-11-06,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1382,Enterococcus faecium,Ciprofloxacin,R,2024-04-03,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1383,Escherichia coli,Piperacillin-Tazobactam,S,2025-10-21,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1384,Acinetobacter baumannii,Colistin,S,2025-08-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1385,Acinetobacter baumannii,Amikacin,S,2025-04-02,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1386,Pseudomonas aeruginosa,Amikacin,S,2024-12-21,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1387,Pseudomonas aeruginosa,Meropenem,R,2024-09-02,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1388,Pseudomonas aeruginosa,Colistin,S,2025-01-27,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1389,Acinetobacter baumannii,Meropenem,R,2025-07-20,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1390,Enterococcus faecium,Vancomycin,S,2024-11-10,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1391,Pseudomonas aeruginosa,Meropenem,S,2025-01-18,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1392,Enterococcus faecium,Ciprofloxacin,S,2024-03-22,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1393,Klebsiella pneumoniae,Meropenem,S,2025-01-25,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1394,Escherichia coli,Piperacillin-Tazobactam,R,2025-11-15,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1395,Pseudomonas aeruginosa,Meropenem,I,2024-01-13,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1396,Klebsiella pneumoniae,Amikacin,S,2025-05-05,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1397,Enterococcus faecium,Linezolid,S,2024-06-20,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1398,Enterococcus faecium,Linezolid,S,2024-12-16,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1399,Enterococcus faecium,Linezolid,S,2024-02-24,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1400,Staphylococcus aureus,Ciprofloxacin,R,2024-11-25,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1401,Pseudomonas aeruginosa,Amikacin,S,2025-12-16,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1402,Escherichia coli,Ceftriaxone,R,2025-05-15,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1403,Klebsiella pneumoniae,Meropenem,S,2025-09-11,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed35
+SYN-1404,Acinetobacter baumannii,Colistin,S,2025-01-12,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1405,Staphylococcus aureus,Linezolid,S,2025-06-16,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed35
+SYN-1406,Enterococcus faecium,Linezolid,S,2024-11-28,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1407,Escherichia coli,Ceftriaxone,S,2024-05-24,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1408,Acinetobacter baumannii,Colistin,S,2025-06-19,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed35
+SYN-1409,Pseudomonas aeruginosa,Piperacillin-Tazobactam,S,2025-06-03,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1410,Enterococcus faecium,Linezolid,S,2024-10-22,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1411,Enterococcus faecium,Vancomycin,S,2025-06-23,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1412,Acinetobacter baumannii,Ciprofloxacin,R,2024-11-27,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed34
+SYN-1413,Acinetobacter baumannii,Meropenem,R,2024-02-04,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1414,Pseudomonas aeruginosa,Colistin,S,2025-09-02,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1415,Escherichia coli,Amikacin,S,2025-01-18,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1416,Escherichia coli,Piperacillin-Tazobactam,S,2024-02-21,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed34
+SYN-1417,Enterococcus faecium,Linezolid,S,2024-03-21,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1418,Enterococcus faecium,Ciprofloxacin,R,2024-01-03,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1419,Klebsiella pneumoniae,Ceftriaxone,R,2025-05-15,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1420,Escherichia coli,Meropenem,S,2024-03-10,Delhi-NCR,Regional Reference Lab B,CLSI,M100 Ed34
+SYN-1005,Staphylococcus aureus,Cefoxitin,R,2024-05-12,Chennai-South,Coastal Clinical Lab C,CLSI,M100 Ed34
+SYN-1019,Pseudomonas aeruginosa,Ciprofloxacin,R,2024-01-23,Bengaluru-Central,Deccan Diagnostics D,CLSI,M100 Ed34
+SYN-1421,Escherichia coli,Meropenem,MIC<=0.25,2025-07-11,Mumbai-West,Sentinel Microbiology Lab A,CLSI,M100 Ed35
+SYN-1422,,Ciprofloxacin,R,2025-09-02,Kolkata-East,Eastern Surveillance Lab E,CLSI,M100 Ed35
+SYN-1423,Pseudomonas aeruginosa,Cefepime,R,2025-13-45,Bengaluru-Central,Deccan Diagnostics D,EUCAST,v14.0
