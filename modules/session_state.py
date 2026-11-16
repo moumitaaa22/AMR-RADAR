@@ -21,73 +21,40 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 
 
-
 def apply_amr_radar_theme() -> None:
-    """Apply a high-contrast theme across all AMR RADAR pages."""
-
+    """Apply consistent, readable styling across AMR RADAR."""
     st.markdown(
         """
         <style>
-
-        /* Main application background and text */
-        .stApp {
-            background-color: #F5F7FA;
-            color: #111827 !important;
+        /* Main dashboard text */
+        [data-testid="stMain"] {
+            color: #111111 !important;
         }
 
-        section[data-testid="stMain"] {
-            color: #111827 !important;
+        /* Metric labels and values */
+        [data-testid="stMetricLabel"] *,
+        [data-testid="stMetricValue"] *,
+        [data-testid="stMetricDelta"] * {
+            color: #111111 !important;
+            -webkit-text-fill-color: #111111 !important;
         }
 
-        /* Main page headings and text */
-        section[data-testid="stMain"] h1,
-        section[data-testid="stMain"] h2,
-        section[data-testid="stMain"] h3,
-        section[data-testid="stMain"] h4,
-        section[data-testid="stMain"] p,
-        section[data-testid="stMain"] label,
-        section[data-testid="stMain"] span,
-        section[data-testid="stMain"] li {
-            color: #111827 !important;
+        /* Plotly chart text */
+        .js-plotly-plot .plotly text {
+            fill: #111111 !important;
         }
 
-        /* Dashboard metric cards */
+        /* White metric cards */
         div[data-testid="stMetric"] {
-            background-color: #FFFFFF;
+            background: #FFFFFF;
             border: 1px solid #DCE3EA;
             padding: 14px 16px;
             border-radius: 8px;
         }
-
-        section[data-testid="stMain"]
-        div[data-testid="stMetric"] * {
-            color: #111827 !important;
-        }
-
-        /* Plotly chart titles, axes, legends and labels */
-        .js-plotly-plot .plotly text {
-            fill: #111827 !important;
-        }
-
-        .js-plotly-plot .plotly .legend text,
-        .js-plotly-plot .plotly .gtitle {
-            fill: #111827 !important;
-        }
-
-        /* Sidebar */
-        section[data-testid="stSidebar"] {
-            background-color: #111827;
-        }
-
-        section[data-testid="stSidebar"] * {
-            color: #F9FAFB !important;
-        }
-
         </style>
         """,
         unsafe_allow_html=True,
     )
-
 
 
 

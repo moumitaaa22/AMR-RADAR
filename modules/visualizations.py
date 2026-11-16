@@ -19,7 +19,7 @@ def plot_sir_stacked(grouped_df: pd.DataFrame, label_col: str, title: str) -> go
     """Create horizontal stacked bar chart for S / I / R counts."""
     fig = go.Figure()
     if grouped_df.empty:
-        fig.update_layout(title=f"{title} (No matching records)")
+        fig.update_layout(font=dict(color="#111111"),title=f"{title} (No matching records)")
         return fig
 
     df = grouped_df.head(15).iloc[::-1]
@@ -50,7 +50,7 @@ def plot_sir_stacked(grouped_df: pd.DataFrame, label_col: str, title: str) -> go
             marker_color=COLOR_RESISTANT,
         )
     )
-    fig.update_layout(
+    fig.update_layout(font=dict(color="#111111"),
         title=title,
         barmode="stack",
         template="plotly_white",
@@ -92,7 +92,7 @@ def plot_resistance_bars(grouped_df: pd.DataFrame, label_col: str, title: str) -
             customdata=df[["Total_Tested"]].values,
         )
     )
-    fig.update_layout(
+    fig.update_layout(font=dict(color="#111111"),
         title=title,
         template="plotly_white",
         paper_bgcolor="#FFFFFF",
@@ -156,7 +156,7 @@ def plot_resistance_heatmap(pct_matrix: pd.DataFrame, count_matrix: pd.DataFrame
             ygap=2,
         )
     )
-    fig.update_layout(
+    fig.update_layout(font=dict(color="#111111"),
         title="Organism × Antibiotic Resistance Heatmap (* indicates n < 30)",
         template="plotly_white",
         paper_bgcolor="#FFFFFF",
@@ -183,7 +183,7 @@ def plot_trend_line(trend_df: pd.DataFrame, title: str) -> go.Figure:
         hover_data=["Total_Tested", "R", "I", "S"],
     )
     fig.update_traces(line_color=COLOR_BLACK, marker_color=COLOR_BEIGE, marker_line_color=COLOR_BLACK, marker_line_width=1.5)
-    fig.update_layout(
+    fig.update_layout(font=dict(color="#111111"),
         template="plotly_white",
         paper_bgcolor="#FFFFFF",
         plot_bgcolor="#FFFFFF",
