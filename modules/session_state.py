@@ -21,16 +21,27 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 
 def apply_amr_radar_theme() -> None:
-    """Inject clean black, white, and warm beige styling into Streamlit."""
+    """Apply the shared AMR RADAR theme across all pages."""
     st.markdown(
         """
         <style>
-        .stApp { background-color: #F3F2EE; color: #111111; }
-        section[data-testid="stSidebar"] { background-color: #111111; color: #FFFFFF; }
-        section[data-testid="stSidebar"] * { color: #EAE3D5; }
+        .stApp {
+            background-color: #F5F7FA;
+            color: #172033;
+        }
+
+        section[data-testid="stSidebar"] {
+            background-color: #111827;
+            color: #FFFFFF;
+        }
+
+        section[data-testid="stSidebar"] * {
+            color: #F9FAFB;
+        }
+
         div[data-testid="stMetric"] {
             background: #FFFFFF;
-            border: 1px solid #D5CEC2;
+            border: 1px solid #DCE3EA;
             padding: 14px 16px;
             border-radius: 8px;
         }
@@ -38,6 +49,7 @@ def apply_amr_radar_theme() -> None:
         """,
         unsafe_allow_html=True,
     )
+
 
 
 def ensure_session_data() -> None:
